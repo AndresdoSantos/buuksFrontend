@@ -11,7 +11,6 @@ type Data = {
   imageURL: string
   pages: number
   title: string
-  __v: number
   _id: string
 }
 
